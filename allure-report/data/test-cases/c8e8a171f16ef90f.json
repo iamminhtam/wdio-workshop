@@ -1,0 +1,56 @@
+{
+  "uid" : "c8e8a171f16ef90f",
+  "name" : "Challenge 3",
+  "fullName" : "Take the challenge at Flood Shop.Challenge 3",
+  "historyId" : "4413e7403201b47d71b5e7b71fa1e738",
+  "time" : {
+    "start" : 1638249088709,
+    "stop" : 1638249089099,
+    "duration" : 390
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Take the challenge at Flood Shop"
+  }, {
+    "name" : "testClass",
+    "value" : "Take the challenge at Flood Shop"
+  }, {
+    "name" : "testMethod",
+    "value" : "Challenge 3"
+  }, {
+    "name" : "package",
+    "value" : "Take the challenge at Flood Shop"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c8e8a171f16ef90f.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}

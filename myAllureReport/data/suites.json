@@ -1,0 +1,113 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Take the challenge at Flood Shop",
+    "children" : [ {
+      "name" : "Challenge 1",
+      "uid" : "85c5e0d5a87d1f29",
+      "parentUid" : "89d3d0ee9e1abc6ae965116f16a56f4a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639496419061,
+        "stop" : 1639496446394,
+        "duration" : 27333
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Challenge 2",
+      "uid" : "559545d8f67eeef4",
+      "parentUid" : "89d3d0ee9e1abc6ae965116f16a56f4a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639496446394,
+        "stop" : 1639496446762,
+        "duration" : 368
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Challenge 3",
+      "uid" : "afcbb8a43ca907ef",
+      "parentUid" : "89d3d0ee9e1abc6ae965116f16a56f4a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639496446763,
+        "stop" : 1639496447077,
+        "duration" : 314
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Challenge 4",
+      "uid" : "5fc3df6beb757a87",
+      "parentUid" : "89d3d0ee9e1abc6ae965116f16a56f4a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639496447077,
+        "stop" : 1639496447346,
+        "duration" : 269
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Challenge 5",
+      "uid" : "9a6d2c555eb1b89c",
+      "parentUid" : "89d3d0ee9e1abc6ae965116f16a56f4a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639496447346,
+        "stop" : 1639496459322,
+        "duration" : 11976
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Challenge 6",
+      "uid" : "c0fe940091781152",
+      "parentUid" : "89d3d0ee9e1abc6ae965116f16a56f4a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639496459323,
+        "stop" : 1639496478296,
+        "duration" : 18973
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Challenge 7",
+      "uid" : "f99e911f4e306b07",
+      "parentUid" : "89d3d0ee9e1abc6ae965116f16a56f4a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639496478297,
+        "stop" : 1639496491365,
+        "duration" : 13068
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Challenge 8",
+      "uid" : "c6926e369d3e8810",
+      "parentUid" : "89d3d0ee9e1abc6ae965116f16a56f4a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639496491367,
+        "stop" : 1639496492243,
+        "duration" : 876
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    } ],
+    "uid" : "89d3d0ee9e1abc6ae965116f16a56f4a"
+  } ]
+}

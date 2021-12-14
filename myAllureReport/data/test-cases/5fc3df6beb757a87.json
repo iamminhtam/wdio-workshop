@@ -1,0 +1,82 @@
+{
+  "uid" : "5fc3df6beb757a87",
+  "name" : "Challenge 4",
+  "fullName" : "Take the challenge at Flood Shop.Challenge 4",
+  "historyId" : "794ff37b5b4662fae80e3a5bd2443b57",
+  "time" : {
+    "start" : 1639496447077,
+    "stop" : 1639496447346,
+    "duration" : 269
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Take the challenge at Flood Shop"
+  }, {
+    "name" : "testClass",
+    "value" : "Take the challenge at Flood Shop"
+  }, {
+    "name" : "testMethod",
+    "value" : "Challenge 4"
+  }, {
+    "name" : "package",
+    "value" : "Take the challenge at Flood Shop"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c6ffbc29c434f297",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639496304108,
+        "stop" : 1639496304376,
+        "duration" : 268
+      }
+    }, {
+      "uid" : "20e5816f9f1f3810",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639496206285,
+        "stop" : 1639496206571,
+        "duration" : 286
+      }
+    }, {
+      "uid" : "8df7d9a7d52c4cbc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639496022485,
+        "stop" : 1639496022754,
+        "duration" : 269
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5fc3df6beb757a87.json",
+  "parameterValues" : [ "chrome-96.0.4664.93" ]
+}

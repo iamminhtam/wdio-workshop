@@ -1,0 +1,61 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Take the challenge at Flood Shop",
+    "children" : [ {
+      "name" : "Challenge 1",
+      "uid" : "631dff998712c429",
+      "parentUid" : "89d3d0ee9e1abc6ae965116f16a56f4a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638420120853,
+        "stop" : 1638420159124,
+        "duration" : 38271
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.45" ]
+    }, {
+      "name" : "Challenge 2",
+      "uid" : "fd6a85825b4642e6",
+      "parentUid" : "89d3d0ee9e1abc6ae965116f16a56f4a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638420159124,
+        "stop" : 1638420159671,
+        "duration" : 547
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.45" ]
+    }, {
+      "name" : "Challenge 3",
+      "uid" : "ba3e6751c563659e",
+      "parentUid" : "89d3d0ee9e1abc6ae965116f16a56f4a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638420159671,
+        "stop" : 1638420160121,
+        "duration" : 450
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.45" ]
+    }, {
+      "name" : "Challenge 4",
+      "uid" : "92dc68565c12e38",
+      "parentUid" : "89d3d0ee9e1abc6ae965116f16a56f4a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638420160121,
+        "stop" : 1638420160489,
+        "duration" : 368
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.45" ]
+    } ],
+    "uid" : "89d3d0ee9e1abc6ae965116f16a56f4a"
+  } ]
+}

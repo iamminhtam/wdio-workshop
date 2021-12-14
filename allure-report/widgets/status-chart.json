@@ -1,0 +1,41 @@
+[ {
+  "uid" : "ba3e6751c563659e",
+  "name" : "Challenge 3",
+  "time" : {
+    "start" : 1638420159671,
+    "stop" : 1638420160121,
+    "duration" : 450
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "631dff998712c429",
+  "name" : "Challenge 1",
+  "time" : {
+    "start" : 1638420120853,
+    "stop" : 1638420159124,
+    "duration" : 38271
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fd6a85825b4642e6",
+  "name" : "Challenge 2",
+  "time" : {
+    "start" : 1638420159124,
+    "stop" : 1638420159671,
+    "duration" : 547
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "92dc68565c12e38",
+  "name" : "Challenge 4",
+  "time" : {
+    "start" : 1638420160121,
+    "stop" : 1638420160489,
+    "duration" : 368
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

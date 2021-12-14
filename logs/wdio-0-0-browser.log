@@ -1,0 +1,2 @@
+{"level":"WARNING","message":"https://element-challenge.flood.io/bundle.js 42:64784 \"react-i18next:: i18n.languages were undefined or empty\" undefined","source":"console-api","timestamp":1639496828476}
+{"level":"SEVERE","message":"https://element-challenge.flood.io/favicon.ico - Failed to load resource: the server responded with a status of 404 ()","source":"network","timestamp":1639496829583}
